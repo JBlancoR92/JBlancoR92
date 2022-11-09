@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Javier (@JBlancoR92)
+- 👋 Hi, I’m Javier Blanco (@JBlancoR92)
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JavaScript, TypeScript, Angular and React.
 - 💞️ I’m looking to collaborate on software development projects.
